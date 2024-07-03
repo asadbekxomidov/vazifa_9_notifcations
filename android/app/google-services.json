@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101085774174",
+    "project_id": "vazifa9-a8ad5",
+    "storage_bucket": "vazifa9-a8ad5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101085774174:android:1a37a6ce41e62d74b74fcf",
+        "android_client_info": {
+          "package_name": "com.example.vazifa_9_notifcations"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARPNSMnkvFDmUYqZ_eE2lN106Z9tsV0AY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
